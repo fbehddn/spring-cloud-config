@@ -1,5 +1,5 @@
 token:
-  expiration_time: 86400000
+  expiration_time: 123
   secret: this_is_a_very_secure_and_long_long_long_long_token_user_secret_key_12345
 
 gateway:
